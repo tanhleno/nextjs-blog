@@ -2,11 +2,11 @@
 ## About
 This is a simple blog made with Next.js.
 ## Status
-:construction: In progress.
+:construction: In progress :construction:
 - [ ] Complete the tutorial
-  - [ ] Create a Next.js App
-  - [ ] Navigate Between Pages
-  - [ ] Assets, Metadata, and CSS
+  - [x] Create a Next.js App
+  - [x] Navigate Between Pages
+  - [x] Assets, Metadata, and CSS
   - [ ] Pre-rendering and Data Fetching
   - [ ] Dynamic Routes
   - [ ] API Routes
