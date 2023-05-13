@@ -14,5 +14,5 @@ This is a simple blog made with Next.js.
 - [ ] Add TypeScript
 - [ ] Add Tailwind CSS
 ## More
-This is based on the tutorial available at [Learn Next.js]
-(https://nextjs.org/learn).
+This is based on the tutorial available at
+[Learn Next.js](https://nextjs.org/learn).
