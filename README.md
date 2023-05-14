@@ -13,7 +13,7 @@ In progress :construction:
   - [x] Navigate Between Pages
   - [x] Assets, Metadata, and CSS
   - [x] Pre-rendering and Data Fetching
-  - [ ] Dynamic Routes
+  - [x] Dynamic Routes
   - [ ] API Routes
   - [ ] Deploying Your Next.js App
 - [ ] Add TypeScript
