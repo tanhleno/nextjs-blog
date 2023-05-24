@@ -3,6 +3,7 @@
 ## About
 
 This is a simple blog made with Next.js.
+You can see it [here](https://tanhleno.vercel.app/).
 
 ## Status
 
@@ -15,7 +16,7 @@ In progress :construction:
   - [x] Pre-rendering and Data Fetching
   - [x] Dynamic Routes
   - [x] ~~API Routes~~
-  - [ ] Deploying Your Next.js App
+  - [x] Deploying Your Next.js App
 - [ ] Add TypeScript
 - [ ] Add Tailwind CSS
 
