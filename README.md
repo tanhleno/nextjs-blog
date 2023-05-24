@@ -14,7 +14,7 @@ In progress :construction:
   - [x] Assets, Metadata, and CSS
   - [x] Pre-rendering and Data Fetching
   - [x] Dynamic Routes
-  - [ ] API Routes
+  - [x] ~~API Routes~~
   - [ ] Deploying Your Next.js App
 - [ ] Add TypeScript
 - [ ] Add Tailwind CSS
