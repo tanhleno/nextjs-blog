@@ -9,7 +9,7 @@ You can see it [here](https://tanhleno.vercel.app/).
 
 In progress :construction:
 
-- [ ] Complete the tutorial
+- [x] Complete the tutorial
   - [x] Create a Next.js App
   - [x] Navigate Between Pages
   - [x] Assets, Metadata, and CSS
