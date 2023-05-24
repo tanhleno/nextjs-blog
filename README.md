@@ -17,7 +17,8 @@ In progress :construction:
   - [x] Dynamic Routes
   - [x] ~~API Routes~~
   - [x] Deploying Your Next.js App
-- [ ] Add TypeScript
+- [x] Add TypeScript
+- [ ] Update TypeScript
 - [ ] Add Tailwind CSS
 
 ## More
